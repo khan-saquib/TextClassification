@@ -1,0 +1,72 @@
+						
+
+
+			LOGISTIC REGRESSION: 100 iterations + STOP WORDS NOT REMOVED
+
+TRAINING DATA
+
+Results
+======
+Correctly Classified Instances       11288               99.7702 %
+Incorrectly Classified Instances        26                0.2298 %
+Kappa statistic                          0.9976
+Mean absolute error                      0.0003
+Root mean squared error                  0.0118
+Relative absolute error                  0.3454 %
+Root relative squared error              5.4267 %
+Coverage of cases (0.95 level)          99.9912 %
+Mean rel. region size (0.95 level)       5.1419 %
+Total Number of Instances            11314
+
+
+TESTING DATA
+
+Results
+======
+Correctly Classified Instances       12773               95.9366 %
+Incorrectly Classified Instances       541                4.0634 %
+Kappa statistic                          0.9572
+Mean absolute error                      0.0041
+Root mean squared error                  0.0604
+Relative absolute error                  4.3537 %
+Root relative squared error             27.7306 %
+Coverage of cases (0.95 level)          96.7027 %
+Mean rel. region size (0.95 level)       5.2914 %
+Total Number of Instances            13314
+
+
+
+			LOGISTIC REGRESSION : 100 iterations + STOP WORDS REMOVED
+
+
+
+TRAINING DATA
+
+Results
+======
+Correctly Classified Instances       11290               99.7879 %
+Incorrectly Classified Instances        24                0.2121 %
+Kappa statistic                          0.9978
+Mean absolute error                      0.0003
+Root mean squared error                  0.0115
+Relative absolute error                  0.3473 %
+Root relative squared error              5.2663 %
+Coverage of cases (0.95 level)          99.9912 %
+Mean rel. region size (0.95 level)       5.1432 %
+Total Number of Instances            11314
+
+TESTING DATA
+
+Results
+======
+Correctly Classified Instances       12844               96.4699 %
+Incorrectly Classified Instances       470                3.5301 %
+Kappa statistic                          0.9628
+Mean absolute error                      0.0038
+Root mean squared error                  0.0545
+Relative absolute error                  3.9841 %
+Root relative squared error             24.9926 %
+Coverage of cases (0.95 level)          97.6716 %
+Mean rel. region size (0.95 level)       5.522  %
+Total Number of Instances            13314
+
